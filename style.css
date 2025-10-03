@@ -1,6 +1,25 @@
-body{
-    background-color: aqua;
+*{
     padding:0;
     margin: 0;
     box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-color: aqua;
+}
+ul{
+    padding:10px;
+    background-color: azure;
+    text-align: right;
+}
+li{
+    display:inline-block
+}
+a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color:black;
+    font-weight: 800;
+    padding:10px;
+
 }
